@@ -4,6 +4,7 @@ class NotFound extends Component{
     return(
       <div>
         {/* <a>back</a> */}
+        404
       </div>
     )
   }
